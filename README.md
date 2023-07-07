@@ -8,13 +8,13 @@
 ##
 
 <div>
-  <img src="https://github.com/Ro200ok/guide_mke/blob/public/assets/images/1.jpg" width="300"/>&nbsp
-  <img src="https://github.com/Ro200ok/guide_mke/blob/public/assets/images/2.jpg" width="300"/>&nbsp
-  <img src="https://github.com/Ro200ok/guide_mke/blob/public/assets/images/3.jpg" width="300"/>&nbsp
-  <img src="https://github.com/Ro200ok/guide_mke/blob/public/assets/images/4.jpg" width="300"/>&nbsp
-  <img src="https://github.com/Ro200ok/guide_mke/blob/public/assets/images/5.jpg" width="300"/>&nbsp
-  <img src="https://github.com/Ro200ok/guide_mke/blob/public/assets/images/6.jpg" width="300"/>&nbsp
-  <img src="https://github.com/Ro200ok/guide_mke/blob/public/assets/images/7.jpg" width="300"/>&nbsp
+  <img src="https://github.com/Ro200ok/gudeMKEdemo/blob/main/assets/1.jpg" width="300"/>&nbsp
+  <img src="https://github.com/Ro200ok/gudeMKEdemo/blob/main/assets/2.jpg" width="300"/>&nbsp
+  <img src="https://github.com/Ro200ok/gudeMKEdemo/blob/main/assets/3.jpg" width="300"/>&nbsp
+  <img src="https://github.com/Ro200ok/gudeMKEdemo/blob/main/assets/4.jpg" width="300"/>&nbsp
+  <img src="https://github.com/Ro200ok/gudeMKEdemo/blob/main/assets/5.jpg" width="300"/>&nbsp
+  <img src="https://github.com/Ro200ok/gudeMKEdemo/blob/main/assets/6.jpg" width="300"/>&nbsp
+  <img src="https://github.com/Ro200ok/gudeMKEdemo/blob/main/assets/7.jpg" width="300"/>&nbsp
  
   
   <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="redux" alt="redux" width="40" height="40"/>&nbsp; -->
